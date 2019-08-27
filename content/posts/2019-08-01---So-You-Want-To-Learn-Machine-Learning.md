@@ -15,6 +15,14 @@ description: "Best Online Resources for Machine Learning"
 
 [The Best Artificial Intelligence, Machine Learning and Data Science Resources*](https://www.notion.so/nivu/The-Best-Artificial-Intelligence-Machine-Learning-and-Data-Science-Resources-88790b557dd7470097c43a07d3c30088)
 
+## Python
+
+[Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
+
+[Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
+
+[Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359)
+
 ## Decision Trees
 
 ### Videos
@@ -27,7 +35,11 @@ description: "Best Online Resources for Machine Learning"
 
 [A Simple Explanation of Gini Impurity](https://victorzhou.com/blog/gini-impurity/)
 
+[A Simple Explanation of Information Gain and Entropy](https://victorzhou.com/blog/information-gain/)
+
 ### Code
+
+[Decision tree implementation using Python](https://www.geeksforgeeks.org/decision-tree-implementation-python/)
 
 ## Random Forest
 
