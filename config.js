@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://nivu.me',
   pathPrefix: '/',
-  title: 'NIVU',
+  title: 'nivu.me',
   subtitle: 'IoT & AI Developer, Freelancer and Educator. School of AI Dean.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -29,11 +29,11 @@ module.exports = {
     photo: '/nivu.jpeg',
     bio: 'IoT & AI Developer, Freelancer and Educator. School of AI Dean.',
     contacts: {
-      email: 'main@nivu.me',
+      email: 'mail@nivu.me',
       telegram: '#',
-      twitter: 'navneetnivu07',
+      twitter: 'nivu07',
       github: 'navneetnivu07',
-      linkedin: '#',
+      linkedin: 'https://www.linkedin.com/in/navaneethmalingan/',
       instagram: '#'
     }
   }

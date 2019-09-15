@@ -11,6 +11,8 @@ I live in Coimbatore.
 
 Dean, [Coimbatre School of AI](https://theschool.ai)
 
-Lead Course Instructor, [Femtech, Poland](http://femtech.xyz)
+Lead Course Instructor (Machine Learning and Data Science), [Femtech, Poland](http://femtech.xyz)
+
+Freelance Software Engineer and IoT Developer
 
 *Upgrade ...*

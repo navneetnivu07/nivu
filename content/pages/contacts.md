@@ -1,8 +1,9 @@
 ---
 template: page
 title: Contact me
-slug: contact
-draft: true
+draft: false
 ---
+
 📱 +91 90 4757 8585
+
 📧 mail@nivu.me
