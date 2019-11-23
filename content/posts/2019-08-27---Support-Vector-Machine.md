@@ -17,3 +17,6 @@ If ypu believe the data too much, then it is overfitting
 
 This line is consistent with the data while commiting least to it is the basis behind SVM.
 
+[Support Vector Machine](https://www.youtube.com/watch?v=nQ4YHUkaD_Q)
+
+[Support Vector Machine - Kernel Trick](https://www.youtube.com/watch?v=vMmG_7JcfIc)
