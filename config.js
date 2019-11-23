@@ -29,10 +29,12 @@ module.exports = {
     photo: '/nivu.jpeg',
     bio: 'IoT & AI Developer, Freelancer and Educator. School of AI Dean.',
     contacts: {
-      email: 'main@nivu.me',
+      email: 'mail@nivu.me',
       telegram: '#',
-      twitter: 'navneetnivu07',
-      github: 'navneetnivu07'
+      twitter: 'nivu07',
+      github: 'navneetnivu07',
+      linkedin: 'https://www.linkedin.com/in/navaneethmalingan/',
+      instagram: '#'
     }
   }
 };
