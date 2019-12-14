@@ -17,11 +17,19 @@ description: "Best Online Resources for Machine Learning"
 
 ## Python
 
-[Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
+**Dr. Chuck**'s (Prof. Charles Severance) [Python for Everybody](https://www.py4e.com/) is free. There is an accomanying book with the same title.
+
+**Coursera** offers a more official version [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/specializations/python). It includes the videos from the free course, but with the addition of extra readings, quizzes, and a certificate.
+
+[Socratics:Python Programming Tutorials (YouTube)](https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
 
 [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
 
 [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359)
+
+## Numpy
+
+
 
 ## Decision Trees
 
