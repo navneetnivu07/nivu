@@ -23,13 +23,13 @@ I have added links to MOOCs🎓, YouTube▶️ Playlists and Free e-books📚.
 ## Understanding Mathematics
 
 [The Map of Mathematics](https://www.youtube.com/watch?v=OmJ-4B-mS-Y) by
-_[MajorPrep](https://www.youtube.com/channel/UCpCSAcbqs-sjEVfk_hMfY9w) The entire field of mathematics summarised in a single map! This shows how pure mathematics and applied mathematics relate to each other and all of the sub-topics they are made from._
+[MajorPrep](https://www.youtube.com/channel/UCpCSAcbqs-sjEVfk_hMfY9w) _The entire field of mathematics summarised in a single map! This shows how pure mathematics and applied mathematics relate to each other and all of the sub-topics they are made from._
 
 [The Mathematics of Machine Learning](https://www.youtube.com/watch?v=Rt6beTKDtqY) by
-_[MajorPrep](https://www.youtube.com/channel/UCpCSAcbqs-sjEVfk_hMfY9w)_
+[MajorPrep](https://www.youtube.com/channel/UCpCSAcbqs-sjEVfk_hMfY9w)
 
 [How to Learn Mathematics Fast](https://www.youtube.com/watch?v=YzfdL58virc) by
-_[Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) Whether you're interested in AI or you just want to do some real engineering work, you’re going to need to brush up on your math skills. In this video, I’ll describe my strategy to learn mathematics as fast as possible._
+[Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) _Whether you're interested in AI or you just want to do some real engineering work, you’re going to need to brush up on your math skills. In this video, I’ll describe my strategy to learn mathematics as fast as possible._
 
 ## MOOC 🎓
 
