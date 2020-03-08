@@ -2,7 +2,7 @@
 title: Neural Network Resources
 date: "2019-08-27T02:46:37.121Z"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/neural-network-resources/"
 category: "Deep Learning"
 tags:
@@ -14,7 +14,7 @@ description: "Best Online Resources for Neural Networks"
 
 [How to get Started with Machine Learning](https://www.youtube.com/watch?v=I74ymkoNTnw)
 
-[The Best Artificial Intelligence, Machine Learning and Data Science Resources*](https://www.notion.so/nivu/The-Best-Artificial-Intelligence-Machine-Learning-and-Data-Science-Resources-88790b557dd7470097c43a07d3c30088)
+[The Best Artificial Intelligence, Machine Learning and Data Science Resources\*](https://www.notion.so/nivu/The-Best-Artificial-Intelligence-Machine-Learning-and-Data-Science-Resources-88790b557dd7470097c43a07d3c30088)
 
 ## Simple Feed Forward Neural Network
 
@@ -30,9 +30,6 @@ description: "Best Online Resources for Neural Networks"
 
 ### Videos
 
-
 ### Blogs
 
-
 ### Code
-
